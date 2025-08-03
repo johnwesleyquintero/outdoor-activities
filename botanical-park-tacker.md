@@ -12,7 +12,7 @@ This table tracks our consistency with our Sunday morning commitment. The goal i
 
 | Week of | Sunday Date | Activity Completed? (✅ / ❌) | Location / Activity Notes |
 | :--- | :--- | :--- | :--- |
-| **Aug 03** | `2025-08-03` | ✅ | `Morning run at the park, 5km | Giselle: 5 Wesley: 10` |
+| **Aug 03** | `2025-08-03` | ✅ | `Morning run at the park, 5km, Giselle: 5 Wesley: 10` |
 | **Aug 10** | `2025-08-10` | | |
 | **Aug 17** | `2025-08-17` | | |
 | **Aug 24** | `2025-08-24` | | |
